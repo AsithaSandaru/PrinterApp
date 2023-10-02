@@ -2,7 +2,7 @@
 public class PrintApp {
 
 	public static void main(String[] args) {
-		String Creator ="Asitha";
+		String Creator = "Asitha";
 		int number1 = 11;
 		int number2 = 2;
 		int multiplication = number1*number2;
