@@ -5,7 +5,7 @@ public class PrintApp {
 		String Creator = "Asitha";
 		int number1 = 11;
 		int number2 = 2;
-		int multiplication = number1*number2;
+		int multiply = number1*number2;
 		int addition = number1+number2;
 		int subs = number1-number2;
 		double divi = (double) number1;
@@ -15,7 +15,7 @@ public class PrintApp {
 		//System.out.println(number1);
 		System.out.println("Number 1 is "+number1);
 		System.out.println("Number 1 is "+number2);
-		System.out.println(number1+"* "+number2+"="+multiplication);
+		System.out.println(number1+"* "+number2+"="+multiply);
 		System.out.println(number1+"+ "+number2+"="+addition);
 		System.out.println(divi+"/ "+divi2+"="+division);
 		System.out.println(number1+"- "+number2+"="+subs);
