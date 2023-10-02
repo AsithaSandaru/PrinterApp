@@ -7,7 +7,7 @@ public class PrintApp {
 		int number2 = 2;
 		int multiply = number1*number2;
 		int addition = number1+number2;
-		int subs = number1-number2;
+		int sub = number1-number2;
 		double divi = (double) number1;
 		double divi2 = (double) number2;
 		double division= (double) number1/(double) number2;
@@ -18,7 +18,7 @@ public class PrintApp {
 		System.out.println(number1+"* "+number2+"="+multiply);
 		System.out.println(number1+"+ "+number2+"="+addition);
 		System.out.println(divi+"/ "+divi2+"="+division);
-		System.out.println(number1+"- "+number2+"="+subs);
+		System.out.println(number1+"- "+number2+"="+sub);
 	}
 
 }
